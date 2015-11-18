@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.steamapi" name="Steam Web API" version="1.0.0" provider-name="Drakulix">
+  <requires>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Steam Web API Support</summary>
+    <description>An object-oriented Python library for accessing the Steam Web API</description>
+    <language></language>
+    <platform>winx linux osx</platform>
+    <license>MIT</license>
+    <source>https://github.com/drakulix/script.module.steamapi</source>
+  </extension>
+</addon>

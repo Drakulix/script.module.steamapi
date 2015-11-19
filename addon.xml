@@ -8,7 +8,7 @@
     <summary>Steam Web API Support</summary>
     <description>An object-oriented Python library for accessing the Steam Web API</description>
     <language></language>
-    <platform>winx linux osx</platform>
+    <platform>windx linux osx</platform>
     <license>MIT</license>
     <source>https://github.com/drakulix/script.module.steamapi</source>
   </extension>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.steamapi" name="Steam Web API" version="1.0.0" provider-name="Drakulix">
+<addon id="script.module.steamapi" name="Steam Web API" version="1.0.2" provider-name="Drakulix">
   <requires>
     <import addon="script.module.requests"/>
   </requires>
